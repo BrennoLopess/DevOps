@@ -1,0 +1,13 @@
+DevOps - Aula 2 (Git)
+
+Branch:
+Merge:
+Pull: pega a versão mais recente do projeto e manda para a sua cópia
+Push: empurra as atualizações locais para o projeto principal
+
+Git add -> manda do diretorio que esta trabalhando para uma area antes de mandar pro repositorio
+Git reset -> reseta o add
+Git commit -> manda para o repositorio local
+Git push -> manda para o repositorio remoto
+Git pull -> puxa as alterações do repositorio remoto
+
